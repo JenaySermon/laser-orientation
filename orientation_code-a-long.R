@@ -32,7 +32,7 @@ round(3.14)
 
 #' Take a look at the arguments for the round() function. 
 
-?round()
+?round(3.14, digits = 1)
 
 
 #' Add an argument to the round() function to 
